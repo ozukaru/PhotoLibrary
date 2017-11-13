@@ -1,0 +1,6 @@
+framework module NotchKit {
+  umbrella header "NotchKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
